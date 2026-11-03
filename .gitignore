@@ -47,6 +47,3 @@ coverage/
 # Misc
 .cache/
 tmp/
-
-# Claude
-.claude/
